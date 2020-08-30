@@ -15,4 +15,5 @@
 ---
 # Notes Chapter 2 "Python for data analysis" by Wes Mckinny #
 - For data analysis, it's better to use IPython or Jupyter notebooks
-- one of the major improvement with IPython is the *"tab completion"*
+- one of the major improvement with IPython is the *"tab completion"* (this doesn't work on my notebook)
+
