@@ -14,3 +14,4 @@
 # Notes Chapter 1 "Python for data analysis" by Wes Mckinny #
 ---
 # Notes Chapter 2 "Python for data analysis" by Wes Mckinny #
+- For data analysis, it's better to use IPython or Jupyter notebooks
