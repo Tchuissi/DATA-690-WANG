@@ -17,4 +17,6 @@
 - For data analysis, it's better to use IPython or Jupyter notebooks
 - One of the major improvement with IPython is the *"tab completion"* (this doesn't work on my notebook)
 - The question mark ? diplays general information about the object
+- Explore the Jupyter notebook's systems for the terminal keyboard shortcuts
+- A magic command is any command prexifed by %
 
