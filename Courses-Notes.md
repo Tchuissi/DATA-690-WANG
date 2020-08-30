@@ -11,8 +11,6 @@
 - We should read "Python for data analysis" by Wes Mckinny Second Edition
  
 ---
-# Notes Chapter 1 "Python for data analysis" by Wes Mckinny #
----
 # Notes Chapter 2 "Python for data analysis" by Wes Mckinny #
 - For data analysis, it's better to use IPython or Jupyter notebooks
 - One of the major improvement with IPython is the *"tab completion"* (this doesn't work on my notebook)
