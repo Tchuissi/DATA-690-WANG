@@ -3,6 +3,10 @@
 - REPL, "Read, Execute, Print, Loop" is the running process of Python
 - The most effective way to run Python is to use a free cloud based tool, such as the Jupyter Notebook notebook.ai
   - notebook.ai uses Linux terminal
+- There are other way to run Python such as Anaconda or python.org (interactive)
+- Github is the platform to keep data projects organized and well presented. It can also be considered as a professional portfolio and should be linked in our resume
+- We should practice Python for at least one hour a day 
+ 
 ---
 # Notes Chapter 1 "Python for data analysis" by Wes Mckinny #
 ---
